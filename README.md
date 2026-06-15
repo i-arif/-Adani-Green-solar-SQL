@@ -21,4 +21,6 @@ and maintenance impact analysis.
 - Maintenance impact on energy output
 
 ## 👤 Author
-Oxford Software Institute
+**Aarif Ansari**
+Data Science Student | Oxford Software Institute
+ansariarif853@gmail.com
